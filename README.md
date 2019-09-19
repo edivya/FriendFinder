@@ -17,4 +17,4 @@ To install and run Friend-Finder, the following steps are necessary on the termi
 	* 1.npm install 
 	* 2.npm install express
 
-Once Friend Finder is installed it can be accessed through localhost:3030 and called with node server.js
+Once Friend Finder is installed it can be accessed through localhost:3000 and called with node server.js
