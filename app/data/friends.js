@@ -1,39 +1,5 @@
 var friends = [
     {
-        "routeName": "Hundley",
-        "name": "Hundley",
-        "photo": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/hundley-curious-george-a-very-monkey-christmas-66.jpg",
-        "scores": [
-            "2",
-            "3",
-            "3",
-            "5",
-            "4",
-            "3",
-            "4",
-            "4",
-            "4",
-            "3"
-        ]
-    },
-    {
-        "routeName": "Mudge",
-        "name": "Mudge",
-        "photo": "https://tse4.mm.bing.net/th?id=OIP.tMEK47wck-CUTetONxmhCAHaFj&pid=15.1&P=0&w=207&h=156",
-        "scores": [
-            "4",
-            "2",
-            "5",
-            "1",
-            "3",
-            "2",
-            "2",
-            "1",
-            "3",
-            "2"
-        ]
-    },
-    {
         "routeName": "Ribsy",
         "name": "Ribsy Huggins",
         "photo": "http://kinderbooks.net/wp-content/uploads/2015/01/Henry-and-Ribsy.gif",
