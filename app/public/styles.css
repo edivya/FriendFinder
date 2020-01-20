@@ -44,7 +44,9 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: "Domine", serif;
+  font-family: "Rock Salt", cursive;
+
+  /* font-family: "Domine", serif; */
 }
 
 #footer {
