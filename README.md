@@ -17,6 +17,8 @@ Friend Finder finds compatability among the user and different "friends," who ha
 
 ![surveypage](https://github.com/edivya/FriendFinder/blob/master/images/FriendFinder-1.png)
 
+![surveypage](https://github.com/edivya/FriendFinder/blob/master/images/FriendFinder-2.png)
+
 ## Developer's Toolkit
 
 Friend Finder was developed through Node.js and Express on the backend with the front end consisting of HTML, CSS, Bootstrap, JavaScript, jQuery, Font Awesome, and Google Fonts.
